@@ -9,4 +9,4 @@ Punto 1:
  - https://designsprintkit.withgoogle.com/methodology/overview
  - https://www.gv.com/sprint/
 
-Punto 2: 
+Punto 2:
