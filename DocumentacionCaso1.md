@@ -30,21 +30,21 @@ Los siguientes wireframes es un vistaso general a la represntacion de la estruct
 De los wireframes destacan ventanas en particular las cuales son las mas valiosas del sistema
 
 - Home page 
-    ![HomePage](assets/HomePageFrame.png)
+    ![HomePage](assets/Wireframes/HomePageFrame.png)
 
 - Crear Nuevo Pago
-    ![Crear nuevo pago](assets/CrearPagoFrame.png)
+    ![Crear nuevo pago](assets/Wireframes/CrearPagoFrame.png)
 
 
 - Seleccionar Servicio
-    ![Seleccionar Servicio](assets/SeleccionarServicioFrame.png)
+    ![Seleccionar Servicio](assets/Wireframes/SeleccionarServicioFrame.png)
 
 
 - Agregar Metodo de Pago
-![Seleccionar Servicio](assets/AgregarMetodoPagoFrame.png)  
+![Seleccionar Servicio](assets/Wireframes/AgregarMetodoPagoFrame.png)  
 
 - Prompt
-![Prompt](assets/PromptFrame.png)  
+![Prompt](assets/Wireframes/PromptFrame.png)  
 
 
 Estos wireframes servirán como base para la creacion del diseño de las ventanas en un futuro, asegurando que la aplicacion cumpla con las necesidades del usuarios.
@@ -59,3 +59,26 @@ Para este apartado se utilizo [Vercel](https://v0.dev) para generar y hacer un d
 ### Tests de Usabilidad:
 
 Para las pruebas de usabilidad, se decidió utilizar imágenes estáticas de las pantallas generadas con inteligencia artificial. Esta elección se debe a que, al usar el enlace del deployment, han surgido problemas al visualizar el heatmap correctamente.
+
+El video de cada participante se puede encontrar [AQUI](https://v0.dev)
+
+En general la mayoria de participantes lograron cumplir los objetivos de la prueba correctamente.  
+
+A continuacion se presentan los Heatmaps de cada task.
+### Heatmap Agregar Nuevo Metodo Pago 1
+![Agregar Nuevo Metodo Pago 1](assets/Heatmaps/heatmap1.png)
+
+### Heatmap Agregar Nuevo Metodo Pago 2
+![Agregar Nuevo Metodo Pago 2](assets/Heatmaps/heatmap2.png)
+
+### Heatmap Crear nuevo pago con voz
+![Crear nuevo pago con voz](assets/Heatmaps/heatmap3.png)
+
+### Heatmap Volver a tomar la nota de voz
+![Volver a tomar la nota de voz](assets/Heatmaps/heatmap4.png)
+
+### Heatmap Seleccionar un servicio
+![Seleccionar un servicio](assets/Heatmaps/heatmap5.png)
+
+### Comentarios adicionales de los participantes
+![Comentarios](assets/comentarios.png)
