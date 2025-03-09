@@ -22,3 +22,30 @@ Haciendo una revision del diagrama se determino que los puntos mas valiosos del 
 ![Seleccionar Servicio](assets/AgregarMetodoPago.png)  
 - Refinamiento de Prompt
     Para este punto no hay una imagen en especifico del diagrama, pero se considera que es un punto importante ya que es la manera principal en la cual los usuarios crean nuevos pagos.
+
+### Wireframes:
+Los siguientes wireframes es un vistaso general a la represntacion de la estructura y disposición de las pantallas clave de la aplicación, enfocadas en el flujo de preoridad de la aplicacion.
+![Wireframes](assets/wireFrame.png)
+
+De los wireframes destacan ventanas en particular las cuales son las mas valiosas del sistema
+
+- Home page 
+    ![HomePage](assets/HomePageFrame.png)
+
+- Crear Nuevo Pago
+    ![Crear nuevo pago](assets/CrearPagoFrame.png)
+
+
+- Seleccionar Servicio
+    ![Seleccionar Servicio](assets/SeleccionarServicioFrame.png)
+
+
+- Agregar Metodo de Pago
+![Seleccionar Servicio](assets/AgregarMetodoPagoFrame.png)  
+
+- Prompt
+![Prompt](assets/PromptFrame.png)  
+
+
+Estos wireframes servirán como base para la creacion del diseño de las ventanas en un futuro, asegurando que la aplicacion cumpla con las necesidades del usuarios.
+
