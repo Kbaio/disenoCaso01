@@ -49,3 +49,13 @@ De los wireframes destacan ventanas en particular las cuales son las mas valiosa
 
 Estos wireframes servirán como base para la creacion del diseño de las ventanas en un futuro, asegurando que la aplicacion cumpla con las necesidades del usuarios.
 
+### Wirefrmaes generados por AI:
+
+Para este apartado se utilizo [Vercel](https://v0.dev) para generar y hacer un deploy de las pantallas generadas.
+
+- https://v0-diseno-caso1-q1ua7podc-kbaios-projects.vercel.app
+
+
+### Tests de Usabilidad:
+
+Para las pruebas de usabilidad, se decidió utilizar imágenes estáticas de las pantallas generadas con inteligencia artificial. Esta elección se debe a que, al usar el enlace del deployment, han surgido problemas al visualizar el heatmap correctamente.
