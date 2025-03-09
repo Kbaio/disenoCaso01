@@ -30,14 +30,14 @@ Los siguientes wireframes es un vistaso general a la represntacion de la estruct
 De los wireframes destacan ventanas en particular las cuales son las mas valiosas del sistema
 
 - Home page 
-    ![HomePage](assets/Wireframes/HomePageFrame.png)
+![HomePage](assets/Wireframes/HomePageFrame.png)
 
 - Crear Nuevo Pago
-    ![Crear nuevo pago](assets/Wireframes/CrearPagoFrame.png)
+![Crear nuevo pago](assets/Wireframes/CrearPagoFrame.png)
 
 
 - Seleccionar Servicio
-    ![Seleccionar Servicio](assets/Wireframes/SeleccionarServicioFrame.png)
+![Seleccionar Servicio](assets/Wireframes/SeleccionarServicioFrame.png)
 
 
 - Agregar Metodo de Pago
