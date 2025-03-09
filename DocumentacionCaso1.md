@@ -67,18 +67,29 @@ A continuacion se presentan los Heatmaps de cada task.
 
 ### Heatmap Agregar Nuevo Metodo Pago 1
 ![Agregar Nuevo Metodo Pago 1](assets/Heatmaps/heatmap1.png)
+Este heatmap muestra las áreas donde los usuarios han interactuado más en la interfaz. Tenian como tarea el ingresar un nuevo metodo de pago, se puede notar que una gran mayoria de los participantes lograron realzar la tarea, sin embargo, tambien es notable que algunos participantes se fueron a agragar pago.
 
 ### Heatmap Agregar Nuevo Metodo Pago 2
 ![Agregar Nuevo Metodo Pago 2](assets/Heatmaps/heatmap2.png)
 
+Este heatmap tenian como tarea el seleccionar que metodo de pago querian agregar, aca notamos que todos los participantes puediron completar la tarea sin problema.
+
 ### Heatmap Crear nuevo pago con voz
 ![Crear nuevo pago con voz](assets/Heatmaps/heatmap3.png)
+
+En el heatmap muestre el uso de la aplicacion para intentar realizar la tarea de nuevo pago con voz, notamos que la mayoria de los participantes puedieron lograr la tarea, sin embargo, tambien hubieron participantes que no la lograron y esto es algo que tenemos que tener en consideracion.
 
 ### Heatmap Volver a tomar la nota de voz
 ![Volver a tomar la nota de voz](assets/Heatmaps/heatmap4.png)
 
+Aca, en este heatmap tenian la tarea de tomar la nota de voz nuevamente, al igual el heatmap anteriro podemos observar que la mayoria de participantes tuvieron existo realizando la prueba, sin embargo, hubo algunas fallas de algunos participantes al realizar la prueba.
+
 ### Heatmap Seleccionar un servicio
 ![Seleccionar un servicio](assets/Heatmaps/heatmap5.png)
 
+En este heatmap el cual la tarea era seleccionar un servicio, podemos observar que los participantes puediron realizar correctamenta la accion.
+
 ### Comentarios adicionales de los participantes
 ![Comentarios](assets/comentarios.png)
+
+Como parte final, se coloca los comentarios de algunos participantes que realizaron las pruebas.
