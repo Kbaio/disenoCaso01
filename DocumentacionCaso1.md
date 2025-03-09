@@ -60,7 +60,7 @@ Para este apartado se utilizo [Vercel](https://v0.dev) para generar y hacer un d
 
 Para las pruebas de usabilidad, se decidió utilizar imágenes estáticas de las pantallas generadas con inteligencia artificial. Esta elección se debe a que, al usar el enlace del deployment, han surgido problemas al visualizar el heatmap correctamente.
 
-El video de cada participante se puede encontrar [AQUI](https://v0.dev)
+El video de cada participante se puede encontrar [AQUI](https://estudianteccr-my.sharepoint.com/:f:/g/personal/salazard_estudiantec_cr/EqnIbTOnreBMkvLA-SQaN2ABu_kOKF-pligxiGw7koSbwA?e=ZxbMel)
 
 En general la mayoria de participantes lograron cumplir los objetivos de la prueba correctamente.  
 
