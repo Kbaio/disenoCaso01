@@ -15,7 +15,10 @@ Haciendo una revision del diagrama se determino que los puntos mas valiosos del 
 - Landing 
     ![Landing](assets/Landing.png)
 - Crear Nuevo Pago
-    ![Crear nuevo pago](assets/crearPago.png)
+    ![Crear nuevo pago](assets/CrearPago.png)
 - Seleccionar Servicio
-    ![Crear nuevo pago](assets/SeleccionarServicio.png)
-
+    ![Seleccionar Servicio](assets/SeleccionarServicio.png)
+- Agregar Metodo de Pago
+![Seleccionar Servicio](assets/AgregarMetodoPago.png)  
+- Refinamiento de Prompt
+    Para este punto no hay una imagen en especifico del diagrama, pero se considera que es un punto importante ya que es la manera principal en la cual los usuarios crean nuevos pagos.
