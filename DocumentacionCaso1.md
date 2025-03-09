@@ -17,7 +17,7 @@ Haciendo una revision del diagrama se determino que los puntos mas valiosos del 
 - Crear Nuevo Pago
     ![Crear nuevo pago](assets/CrearPago.png)
 - Seleccionar Servicio
-    ![Seleccionar Servicio](assets/SeleccionarServicio.png)
+    ![Seleccionar Servicio](assets/seleccionarServicio.png)
 - Agregar Metodo de Pago
 ![Seleccionar Servicio](assets/AgregarMetodoPago.png)  
 - Refinamiento de Prompt
@@ -29,21 +29,20 @@ Los siguientes wireframes es un vistaso general a la represntacion de la estruct
 
 De los wireframes destacan ventanas en particular las cuales son las mas valiosas del sistema
 
-- Home page 
+### Home page 
 ![HomePage](assets/Wireframes/HomePageFrame.png)
 
-- Crear Nuevo Pago
+### Crear Nuevo Pago
 ![Crear nuevo pago](assets/Wireframes/CrearPagoFrame.png)
 
 
-- Seleccionar Servicio
+### Seleccionar Servicio
 ![Seleccionar Servicio](assets/Wireframes/SeleccionarServicioFrame.png)
 
 
-- Agregar Metodo de Pago
+### Agregar Metodo de Pago
 ![Seleccionar Servicio](assets/Wireframes/AgregarMetodoPagoFrame.png)  
-
-- Prompt
+### Prompt
 ![Prompt](assets/Wireframes/PromptFrame.png)  
 
 
@@ -65,6 +64,7 @@ El video de cada participante se puede encontrar [AQUI](https://estudianteccr-my
 En general la mayoria de participantes lograron cumplir los objetivos de la prueba correctamente.  
 
 A continuacion se presentan los Heatmaps de cada task.
+
 ### Heatmap Agregar Nuevo Metodo Pago 1
 ![Agregar Nuevo Metodo Pago 1](assets/Heatmaps/heatmap1.png)
 
