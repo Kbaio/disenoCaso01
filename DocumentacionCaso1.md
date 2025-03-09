@@ -25,7 +25,7 @@ Haciendo una revision del diagrama se determino que los puntos mas valiosos del 
 
 ### Wireframes:
 Los siguientes wireframes es un vistaso general a la represntacion de la estructura y disposición de las pantallas clave de la aplicación, enfocadas en el flujo de preoridad de la aplicacion.
-![Wireframes](assets/wireFrame.png)
+![Wireframes](assets/Wireframes/wireFrame.png)
 
 De los wireframes destacan ventanas en particular las cuales son las mas valiosas del sistema
 
