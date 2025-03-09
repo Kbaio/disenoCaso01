@@ -52,7 +52,7 @@ Estos wireframes servirán como base para la creacion del diseño de las ventana
 
 Para este apartado se utilizo [Vercel](https://v0.dev) para generar y hacer un deploy de las pantallas generadas.
 
-- https://v0-diseno-caso1-q1ua7podc-kbaios-projects.vercel.app
+- https://v0.dev/chat/fork-of-payment-assistant-app-8Ma3SWdI6Rt?b=b_1mc30iXeKoM
 
 
 ### Tests de Usabilidad:
